@@ -715,7 +715,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Portfolio Section
 --------------------------------*/
 section.pricing {
-  background: #007bff;
+  background: #f7f7f7;;
   background: linear-gradient(to right, #0062E6, #33AEFF);
 }
 
