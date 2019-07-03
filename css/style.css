@@ -90,6 +90,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   transition: all 0.5s;
   z-index: 997;
+  color: #13345d;
 }
 
 #header #logo {
@@ -126,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-fixed {
-  background: rgba(52, 59, 64, 0.9);
+  background: #13345d;
   padding: 20px 0;
   height: 72px;
   transition: all 0.5s;
@@ -141,6 +142,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url(../img/hero-bg.jpg) top center;
   background-size: cover;
   position: relative;
+  color: #13345d;
 }
 
 @media (min-width: 1024px) {
